@@ -3,7 +3,7 @@
   connection: local
   vars:
     COURSE: Ansible
-    Duration: 10 HR
+    DURATION: 10 HR
     TRAINER: Sivakumar
   tasks:
   - name: print couser information
